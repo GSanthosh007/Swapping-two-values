@@ -18,10 +18,12 @@ Print both the values it would be interchanged
 ### Step 6: 
 
 End the program
-Name:Santhosh G
-Reference No:212223240152
+
 ## PROGRAM:
 ```
+#Program to swap two values.
+#Developed by: Santhosh G
+#RegisterNumber:212223240152
 a=int(input())
 b=int(input())
 a,b=b,a
